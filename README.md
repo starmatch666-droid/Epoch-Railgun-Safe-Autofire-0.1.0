@@ -1,3 +1,10 @@
+> ⚠️ **已停止维护 · 不再继续更新**
+> 本模组不再更新：不会适配后续游戏版本，也不再修复问题。
+> 现有版本与说明保留在此，仅供存档与自行取用；游戏更新后可能失效。
+> This mod is no longer maintained. No further updates or compatibility fixes will be provided.
+
+---
+
 # PLAS-45 纪元 + RS-422 电磁炮
 
 本 release 提供 **三个互斥版本**，按需求只启用其中一个，**不要同时启用**。
